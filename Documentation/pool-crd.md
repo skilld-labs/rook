@@ -21,7 +21,7 @@ spec:
   replicated:
   #  size: 3
   erasureCoded:
-    codingChunks: 2
+    codingChunks: 1
     dataChunks: 2
 ```
 
